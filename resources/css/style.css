@@ -9,12 +9,15 @@ h1{
   font-size: 50px;
   font-weight: normal;
   color: white;
-  text-align: center;
 }
 h2{
   font-weight: 300;
-  font size: 42px;
+  font-size: 42px;
   color: white;
+}
+a{
+  color: Aquamarine;
+  font-size: 16px;
 }
 p.statement{
   font-size: 21px;
@@ -22,14 +25,4 @@ p.statement{
 }
 .footer p.statement{
   text-align: right;
-}
-a{
-  color: Aquamarine;
-  font-size: 16px;
-}
-.header a{
-  align: center;
-}
-.video{
-  align-content: center;
 }
